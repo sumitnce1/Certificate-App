@@ -73,7 +73,7 @@ export default function Certificate() {
           }}
         >
           <img
-            src="src/assets/badge.png"
+            src="/badge.png"
             alt="badge"
             style={{
               width: "100px",
